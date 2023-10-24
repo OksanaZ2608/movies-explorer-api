@@ -2,5 +2,5 @@
 Бэкенд часть дипломной работы.
 
 ##Ссылки на проект
-Frontend
-Backend
+Backend - api.oksanamovies.nomoredomainsrocks.ru
+IP: 51.250.89.66
