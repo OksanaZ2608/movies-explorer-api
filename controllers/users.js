@@ -54,9 +54,9 @@ module.exports.addUser = (req, res, next) => {
           } else {
             next(err);
           }
-        })
-        .catch(next);
-    });
+        });
+    })
+    .catch(next);
 };
 
 module.exports.login = (req, res, next) => {
